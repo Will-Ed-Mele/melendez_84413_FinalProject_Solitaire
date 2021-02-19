@@ -1,5 +1,5 @@
 from graphics import *
-from auxfunx import card_img
+from auxiliaryfunction import card_img
 import random
 
 
