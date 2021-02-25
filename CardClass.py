@@ -60,7 +60,7 @@ class Cards:
         if self.face_up == True:
             return card_img(suit, rank)
         elif self.face_up == False:
-            return 'card_back.png'
+            return 'Cards/card_back.png'
 
     def value(self):
         '''Returns the cards value.'''
