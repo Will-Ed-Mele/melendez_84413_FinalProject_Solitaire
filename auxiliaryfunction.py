@@ -3,110 +3,110 @@ def card_img(suit, rank):
     image that corresponds to that card.'''
     if suit == 'c' or suit == 'C':
         if rank == 1:
-            return 'AC.png'
+            return 'Cards/AC.png'
         elif rank == 2:
-            return '2C.png'
+            return 'Cards/2C.png'
         elif rank == 3:
-            return '3C.png'
+            return 'Cards/3C.png'
         elif rank == 4:
-            return '4C.png'
+            return 'Cards/4C.png'
         elif rank == 5:
-            return '5C.png'
+            return 'Cards/5C.png'
         elif rank == 6:
-            return '6C.png'
+            return 'Cards/6C.png'
         elif rank == 7:
-            return '7C.png'
+            return 'Cards/7C.png'
         elif rank == 8:
-            return '8C.png'
+            return 'Cards/8C.png'
         elif rank == 9:
-            return '9C.png'
+            return 'Cards/9C.png'
         elif rank == 10:
-            return '10C.png'
+            return 'Cards/10C.png'
         elif rank == 11:
-            return 'JC.png'
+            return 'Cards/JC.png'
         elif rank == 12:
-            return 'QC.png'
+            return 'Cards/QC.png'
         elif rank == 13:
-            return 'KC.png'
+            return 'Cards/KC.png'
     elif suit == 's' or suit == 'S':
         if rank == 1:
-            return 'AS.png'
+            return 'Cards/AS.png'
         elif rank == 2:
-            return '2S.png'
+            return 'Cards/2S.png'
         elif rank == 3:
-            return '3S.png'
+            return 'Cards/3S.png'
         elif rank == 4:
-            return '4S.png'
+            return 'Cards/4S.png'
         elif rank == 5:
-            return '5S.png'
+            return 'Cards/5S.png'
         elif rank == 6:
-            return '6S.png'
+            return 'Cards/6S.png'
         elif rank == 7:
-            return '7S.png'
+            return 'Cards/7S.png'
         elif rank == 8:
-            return '8S.png'
+            return 'Cards/8S.png'
         elif rank == 9:
-            return '9S.png'
+            return 'Cards/9S.png'
         elif rank == 10:
-            return '10S.png'
+            return 'Cards/10S.png'
         elif rank == 11:
-            return 'JS.png'
+            return 'Cards/JS.png'
         elif rank == 12:
-            return 'QS.png'
+            return 'Cards/QS.png'
         elif rank == 13:
-            return 'KS.png'
+            return 'Cards/KS.png'
     elif suit == 'h' or suit == 'H':
         if rank == 1:
-            return 'AH.png'
+            return 'Cards/AH.png'
         elif rank == 2:
-            return '2H.png'
+            return 'Cards/2H.png'
         elif rank == 3:
-            return '3H.png'
+            return 'Cards/3H.png'
         elif rank == 4:
-            return '4H.png'
+            return 'Cards/4H.png'
         elif rank == 5:
-            return '5H.png'
+            return 'Cards/5H.png'
         elif rank == 6:
-            return '6H.png'
+            return 'Cards/6H.png'
         elif rank == 7:
-            return '7H.png'
+            return 'Cards/7H.png'
         elif rank == 8:
-            return '8H.png'
+            return 'Cards/8H.png'
         elif rank == 9:
-            return '9H.png'
+            return 'Cards/9H.png'
         elif rank == 10:
-            return '10H.png'
+            return 'Cards/10H.png'
         elif rank == 11:
-            return 'JH.png'
+            return 'Cards/JH.png'
         elif rank == 12:
-            return 'QH.png'
+            return 'Cards/QH.png'
         elif rank == 13:
-            return 'KH.png'
+            return 'Cards/KH.png'
     elif suit == 'd' or suit == 'D':
         if rank == 1:
-            return 'AD.png'
+            return 'Cards/AD.png'
         elif rank == 2:
-            return '2D.png'
+            return 'Cards/2D.png'
         elif rank == 3:
-            return '3D.png'
+            return 'Cards/3D.png'
         elif rank == 4:
-            return '4D.png'
+            return 'Cards/4D.png'
         elif rank == 5:
-            return '5D.png'
+            return 'Cards/5D.png'
         elif rank == 6:
-            return '6D.png'
+            return 'Cards/6D.png'
         elif rank == 7:
-            return '7D.png'
+            return 'Cards/7D.png'
         elif rank == 8:
-            return '8D.png'
+            return 'Cards/8D.png'
         elif rank == 9:
-            return '9D.png'
+            return 'Cards/9D.png'
         elif rank == 10:
-            return '10D.png'
+            return 'Cards/10D.png'
         elif rank == 11:
-            return 'JD.png'
+            return 'Cards/JD.png'
         elif rank == 12:
-            return 'QD.png'
+            return 'Cards/QD.png'
         elif rank == 13:
-            return 'KD.png'
+            return 'Cards/KD.png'
 
